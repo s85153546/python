@@ -36,5 +36,5 @@ run notebook
 
 參考網站  
 1.[pyenv&virtualenv](https://codertw.com/程式語言/471323/)  
-2.[pyenv&virtualenv](https://www.maxlist.xyz/2020/04/01/python-pyenv-virtualenv/)
+2.[pyenv&virtualenv](https://www.maxlist.xyz/2020/04/01/python-pyenv-virtualenv/)  
 3.[100天](https://github.com/jackfrued/Python-100-Days/tree/master/Day01-15/res)
